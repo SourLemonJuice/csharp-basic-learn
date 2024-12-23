@@ -1,3 +1,3 @@
 Just a C# repository for learning...
 
-Weird Microsoft.
+Weird Microsoft. But still cool.
